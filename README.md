@@ -20,7 +20,7 @@
 ##
 
 <h3 align="center">
-  Random programming meme to make you happy :)
+  Random programming meme
 </h3>
 <br>
 
