@@ -6,7 +6,7 @@
 
 <footer>
   <h3 align="center">My name is x-lethal</h3>
-  <p align="center">I am a new kid (on the block)</p>
+  <p align="center"></p>
   <p align="center">learning to code</p>
   <br>
   <p align="center">Currently making: website</p>
